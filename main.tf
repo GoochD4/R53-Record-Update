@@ -2,7 +2,7 @@ locals {
   students = {
     "student1" = {
       name    = "student1"
-      pip = ["<student lab pip"]
+      pip = ["<student lab pip>"]
     }
     # "student2" = {
     #   name    = "student2"
